@@ -1,4 +1,4 @@
-# Kitchen2Kitchen
+# Kitchen2Kitchen (NOT MAINTAINED)
 ## :carrot: No one knows food like we do! :apple:
 <br>
 <p align="center">

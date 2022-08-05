@@ -18,7 +18,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "mocha": "^6.1.4",
-    "mongoose": "^5.5.4",
+    "mongoose": "^5.7.5",
     "passport": "^0.4.0",
     "supertest": "^4.0.2",
     "vue-cookie": "^1.1.4",
